@@ -7,3 +7,7 @@
 | 8.11.2025 | 1 | Cisco Cybersecurity course  | Worked on first chapter |
 | 9.11.2025 | 5 | Cisco Cybersecurity course  | Completed course |
 | 9.11.2025 | 1 | Itslearning tasks | Submitted tasks |
+| 13.11.2025 | 2 | Portswigger labs | Completed 2 SQL injection labs |
+| 14.11.2025 | 1 | Portswigger labs | Completed 1 Authentication lab |
+| 15.11.2025 | 5 | Portswigger labs | Completed 2 Authentication and 3 Access control labs, wrote reflections, updated logbook |
+
