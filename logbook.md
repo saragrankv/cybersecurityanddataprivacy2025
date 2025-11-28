@@ -10,4 +10,8 @@
 | 13.11.2025 | 2 | Portswigger labs | Completed 2 SQL injection labs |
 | 14.11.2025 | 1 | Portswigger labs | Completed 1 Authentication lab |
 | 15.11.2025 | 5 | Portswigger labs | Completed 2 Authentication and 3 Access control labs, wrote reflections, updated logbook |
+| 21.11.2025 | 4 | Booking system project | Installed VM and required tools |
+| 23.11.2025 | 2 | Booking system project | Ran ZAP tests |
+| 27.11.2025 | 2 | Booking system project | Ran ZAP tests, tested for vulnerabilities in browsers |
+| 28.11.2025 | 5 | Booking system project | Tested system vulnerabilities in browser, verified through postgres, added screenshots\ Wrote report\ Updated logbook | 
 
