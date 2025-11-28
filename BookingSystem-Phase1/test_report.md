@@ -55,8 +55,8 @@
 
 | ID | Severity | Finding | Description | Evidence / Proof |
 |------|-----------|----------|--------------|------------------|
-| F-01 | 🔴 High | Passwords sent and stored in plaintext | Passwords are sent in plaintext in the POST request, and stored in plaintext in the database | [POST request screenshot](img/credentials-plaintext2.png)\ [Database screenshot](img/postgres.png) |
-| F-02 | 🟠 Medium | Missing privacy policy | Privacy policy link is disabled and the page it points to gives a 404 error | [Page source screenshot](img/gdpr-disabled.png)\ [404 error screenshot](img/priv404.png) |
+| F-01 | 🔴 High | Passwords sent and stored in plaintext | Passwords are sent in plaintext in the POST request, and stored in plaintext in the database | [POST request screenshot](img/credentials-plaintext2.png)<br />[Database screenshot](img/postgres.png) |
+| F-02 | 🟠 Medium | Missing privacy policy | Privacy policy link is disabled and the page it points to gives a 404 error | [Page source screenshot](img/gdpr-disabled.png)<br />[404 error screenshot](img/priv404.png) |
 | F-03 | 🟠 Medium | Missing Content Security Policy header | Page does not set a CSP header leaving it vulnerable to cross-site-scripting (XSS) attacks | [ZAP report](zap_report_round1.md#content-security-policy-csp-header-not-set)
 | F-04 | 🟡 Low | Incomplete email verification | Accepts "addresses" like "aa@aa" | [Database screenshot](img/postgres.png) |
 | F-05 | 🟡 Low | Weak password policy | Accepts passwords like "12345" | [Database screenshot](img/postgres2.png) |
