@@ -15,4 +15,5 @@
 | 27.11.2025 | 2 | Booking system project | Ran ZAP tests, tested for vulnerabilities in browsers |
 | 28.11.2025 | 5 | Booking system project | Tested system vulnerabilities in browser, verified through postgres, added screenshots<br>Wrote report<br>Updated logbook | 
 | 2.12.2025 | 6 | Booking system project, phase 1 part 2 | Tested previously identified issues to determine if they had been fixed in the updated version<br>Wrote report<br>Updated logbook | 
+| 8.12.2025 | 5 | Booking system project, phase 2 | Tested updated version in ZAP<br>Used hashcat to do password cracking exercise<br>Wrote report<br>Updated logbook | 
 
