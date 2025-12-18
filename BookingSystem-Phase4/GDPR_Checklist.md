@@ -51,8 +51,8 @@
 
 | **Result** | **Data anonymization and pseudonymization** |
 | :----: | :--- |
-| &nbsp;❌&nbsp;<br><sup><a id="note7-origin">[note 7](#note7)</a></sup> | Is personal data anonymized where possible? |
-| &nbsp;❌&nbsp;<br><sup><a id="note7-origin">[note 7](#note7)</a></sup> | Are pseudonymization techniques used to protect data while maintaining its utility? |
+| &nbsp;⚠️&nbsp;<br><sup><a id="note7-origin">[note 7](#note7)</a></sup> | Is personal data anonymized where possible? |
+| &nbsp;⚠️&nbsp;<br><sup><a id="note7-origin">[note 7](#note7)</a></sup> | Are pseudonymization techniques used to protect data while maintaining its utility? |
 
 ---
 
