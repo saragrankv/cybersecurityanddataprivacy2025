@@ -18,4 +18,5 @@
 | 8.12.2025 | 5 | Booking system project, phase 2 | Tested updated version in ZAP<br>Used hashcat to do password cracking exercise<br>Wrote report<br>Updated logbook | 
 | 9.12.2025 | 2 | Booking system project, phase 1 part 1 | Ran more tests in ZAP to find previously missed vulnerabilities | 
 | 9.12.2025 | 4 | Workshop on campus (Kokkola) | Ran more tests in ZAP to find previously missed vulnerabilities, updated report<br>Worked on Portswigger lab<br>Updated logbook | 
-
+| 17.12.2025 | 8 | Booking system project phase 3 | Tested with ZAP, wfuzz, gobuster and explored site manually<br>Noted findings |
+| 18.12.2025 | 2 | Booking system project phase 3 | Wrote authorization test report<br>Updated logbook |
