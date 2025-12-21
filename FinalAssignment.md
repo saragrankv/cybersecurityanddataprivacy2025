@@ -78,8 +78,6 @@ I learned to use many different tools (ZAP, hashcat, gobuster, wfuzz). I also le
 ---
 # Logbook
 
-https://github.com/saragrankv/cybersecurityanddataprivacy2025/tree/main
-
 * Logbook: [logbook.md](logbook.md)
 
 ## Hours spent
